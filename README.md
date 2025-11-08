@@ -1,4 +1,5 @@
-<img width="815" height="563" alt="image" src="https://github.com/user-attachments/assets/947e7591-f499-4148-a046-533948b4c0df" />文件分为三个部分
+<img width="815" height="563" alt="image" src="https://github.com/user-attachments/assets/947e7591-f499-4148-a046-533948b4c0df" />
+文件分为三个部分
 train：代表训练文件夹
 models：代表本文使用的对比模型和本文搭建的模型
 data：代表所用的数据库和预处理代码
